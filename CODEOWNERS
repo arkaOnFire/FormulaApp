@@ -1,0 +1,3 @@
+# My CODEOWNERS content
+FormulaApp.Api/ @arkaOnFire
+FormulaApp.UnitTests/ @arkaOnFire
